@@ -70,14 +70,15 @@ Exemplos de consultas SQL (SELECT, JOIN, GROUP BY) baseadas no meu dia a dia com
 
 <br>
 
-## 📈 Estatísticas
+## 📊 Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafael06vs&show_icons=true&theme=default&hide_title=false&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael06vs&layout=compact" alt="Top Languages" width="35%"/>
-</p>
+<div align="center">
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=Rafael06VS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael06VS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+</div>
 
 ## 📫 Contato
 
